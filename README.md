@@ -2,7 +2,7 @@
 
 -----
 ## This is not the original repository, this is a fork of the original repository.
-### Link to the original repository where the project was developed and you can see the commits:
+### Link to the original repository where the project was developed, and you can see the commits:
 
 
 `https://github.com/Yuliana-Vargas/TP-Integrador-PIL`
